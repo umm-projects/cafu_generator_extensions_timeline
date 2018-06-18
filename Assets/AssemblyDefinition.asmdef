@@ -1,0 +1,10 @@
+{
+    "name": "umm@cafu_generator_extensions_timeline",
+    "references": [
+        "umm@cafu_generator"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
