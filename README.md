@@ -35,7 +35,7 @@ yarn add "umm-projects/cafu_generator_extensions_timeline#^1.0.0"
 
 ### Generate Presenter (implement `ITimelinePresenter` )
 
-![image](https://user-images.githubusercontent.com/838945/41533364-789b0fd6-7335-11e8-9e82-0955944b0124.png)
+![image](https://user-images.githubusercontent.com/838945/41533459-c9b92006-7335-11e8-9537-4637c83cdf14.png)
 
 * Select `Presentation` &gt; `Presenter`
 * Select scene name
