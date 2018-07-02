@@ -18,7 +18,7 @@ namespace CAFU.Timeline.Generator
 
         protected override LayerType LayerType { get; } = LayerType.Enumerate;
 
-        protected override string ModuleName { get; } = "umm@cafu_timeline";
+        protected override string ModuleName { get; } = "umm@cafu_generator_extensions_timeline";
 
         private int CurrentSceneNameIndex { get; set; }
 

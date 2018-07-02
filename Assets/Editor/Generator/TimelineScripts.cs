@@ -13,7 +13,7 @@ namespace CAFU.Timeline.Generator
 
         public override string Name { get; } = StructureName;
 
-        protected override string ModuleName { get; } = "umm@cafu_timeline";
+        protected override string ModuleName { get; } = "umm@cafu_generator_extensions_timeline";
 
         private int CurrentSceneNameIndex { get; set; }
 
