@@ -2,7 +2,7 @@
 
 ## What
 
-* CAFU Generator Extensions for [CAFU Timeline](https://github.com/umm-projects/cafu_timeline)
+* CAFU Generator Extensions for [CAFU Timeline](https://github.com/umm/cafu_timeline)
 
 ## Requirement
 
@@ -12,7 +12,7 @@
 ## Install
 
 ```shell
-yarn add "umm-projects/cafu_generator_extensions_timeline#^1.0.0"
+yarn add "umm/cafu_generator_extensions_timeline#^1.0.0"
 ```
 
 ## Usage
