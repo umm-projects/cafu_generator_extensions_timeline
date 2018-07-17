@@ -2,9 +2,9 @@
   "name": "@umm/cafu_generator_extensions_timeline",
   "version": "1.0.1",
   "description": "CAFU Generator extensions for CAFU Timeline",
-  "homepage": "https://github.com/umm-projects/cafu_generator_extensions_timeline",
+  "homepage": "https://github.com/umm/cafu_generator_extensions_timeline",
   "bugs": {
-    "url": "https://github.com/umm-projects/cafu_generator_extensions_timeline/issues"
+    "url": "https://github.com/umm/cafu_generator_extensions_timeline/issues"
   },
   "scripts": {
     "umm:init": "umm-init",
@@ -18,14 +18,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:umm-projects/cafu_generator_extensions_timeline"
+    "url": "git@github.com:umm/cafu_generator_extensions_timeline"
   },
   "files": [
     "Assets"
   ],
   "dependencies": {
-    "@umm/cafu_generator": "umm-projects/cafu_generator#^1.0.0",
-    "@umm/scripts": "umm-projects/scripts#^1.0.0"
+    "@umm/cafu_generator": "umm/cafu_generator#^1.0.0",
+    "@umm/scripts": "umm/scripts#^1.0.0"
   },
   "devDependencies": {}
 }
