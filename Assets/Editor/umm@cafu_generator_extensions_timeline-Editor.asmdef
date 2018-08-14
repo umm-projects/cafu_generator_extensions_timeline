@@ -1,7 +1,6 @@
 {
     "name": "umm@cafu_generator_extensions_timeline-Editor",
     "references": [
-        "umm@cafu_generator_extensions_timeline",
         "umm@cafu_generator-Editor"
     ],
     "optionalUnityReferences": [],
